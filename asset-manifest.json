@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/mvoitgadova.github.io/EchoSite/static/css/main.6893b5b6.css",
-    "main.js": "/mvoitgadova.github.io/EchoSite/static/js/main.7e90995d.js",
-    "static/js/872.277e7af4.chunk.js": "/mvoitgadova.github.io/EchoSite/static/js/872.277e7af4.chunk.js",
-    "static/js/227.23600860.chunk.js": "/mvoitgadova.github.io/EchoSite/static/js/227.23600860.chunk.js",
-    "static/js/526.fdf471b7.chunk.js": "/mvoitgadova.github.io/EchoSite/static/js/526.fdf471b7.chunk.js",
-    "static/js/232.ebc63069.chunk.js": "/mvoitgadova.github.io/EchoSite/static/js/232.ebc63069.chunk.js",
-    "static/js/237.cff872fa.chunk.js": "/mvoitgadova.github.io/EchoSite/static/js/237.cff872fa.chunk.js",
-    "static/js/787.28cb0dcd.chunk.js": "/mvoitgadova.github.io/EchoSite/static/js/787.28cb0dcd.chunk.js",
-    "static/media/ECHO_Logo_V1.png": "/mvoitgadova.github.io/EchoSite/static/media/ECHO_Logo_V1.82e90c2ac5c4a0882a04.png",
-    "index.html": "/mvoitgadova.github.io/EchoSite/index.html",
-    "main.6893b5b6.css.map": "/mvoitgadova.github.io/EchoSite/static/css/main.6893b5b6.css.map",
-    "main.7e90995d.js.map": "/mvoitgadova.github.io/EchoSite/static/js/main.7e90995d.js.map",
-    "872.277e7af4.chunk.js.map": "/mvoitgadova.github.io/EchoSite/static/js/872.277e7af4.chunk.js.map",
-    "227.23600860.chunk.js.map": "/mvoitgadova.github.io/EchoSite/static/js/227.23600860.chunk.js.map",
-    "526.fdf471b7.chunk.js.map": "/mvoitgadova.github.io/EchoSite/static/js/526.fdf471b7.chunk.js.map",
-    "232.ebc63069.chunk.js.map": "/mvoitgadova.github.io/EchoSite/static/js/232.ebc63069.chunk.js.map",
-    "237.cff872fa.chunk.js.map": "/mvoitgadova.github.io/EchoSite/static/js/237.cff872fa.chunk.js.map",
-    "787.28cb0dcd.chunk.js.map": "/mvoitgadova.github.io/EchoSite/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/echostec.com/static/css/main.6893b5b6.css",
+    "main.js": "/echostec.com/static/js/main.ef0d9ee9.js",
+    "static/js/872.277e7af4.chunk.js": "/echostec.com/static/js/872.277e7af4.chunk.js",
+    "static/js/227.23600860.chunk.js": "/echostec.com/static/js/227.23600860.chunk.js",
+    "static/js/526.fdf471b7.chunk.js": "/echostec.com/static/js/526.fdf471b7.chunk.js",
+    "static/js/232.ebc63069.chunk.js": "/echostec.com/static/js/232.ebc63069.chunk.js",
+    "static/js/237.cff872fa.chunk.js": "/echostec.com/static/js/237.cff872fa.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/echostec.com/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ECHO_Logo_V1.png": "/echostec.com/static/media/ECHO_Logo_V1.82e90c2ac5c4a0882a04.png",
+    "index.html": "/echostec.com/index.html",
+    "main.6893b5b6.css.map": "/echostec.com/static/css/main.6893b5b6.css.map",
+    "main.ef0d9ee9.js.map": "/echostec.com/static/js/main.ef0d9ee9.js.map",
+    "872.277e7af4.chunk.js.map": "/echostec.com/static/js/872.277e7af4.chunk.js.map",
+    "227.23600860.chunk.js.map": "/echostec.com/static/js/227.23600860.chunk.js.map",
+    "526.fdf471b7.chunk.js.map": "/echostec.com/static/js/526.fdf471b7.chunk.js.map",
+    "232.ebc63069.chunk.js.map": "/echostec.com/static/js/232.ebc63069.chunk.js.map",
+    "237.cff872fa.chunk.js.map": "/echostec.com/static/js/237.cff872fa.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/echostec.com/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6893b5b6.css",
-    "static/js/main.7e90995d.js"
+    "static/js/main.ef0d9ee9.js"
   ]
 }
